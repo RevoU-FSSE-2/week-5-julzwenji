@@ -1,1 +1,1 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/f6dTnkNL)
+Hello, this is my Week 5 Assignment, a website describing about a translation provider company. The link is https://juliuswenji65.site/ Sources for the sites is consist of 2 HTML (First & Redirect Page), CSS & JS. Thank you.
