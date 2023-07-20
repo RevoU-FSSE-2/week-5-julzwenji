@@ -28,6 +28,15 @@ Hello, this is my Week 5 Assignment, a website describing about a translation pr
 27. Now it is time to set the DNS.
 28. Go to https://www.cloudfare.com/ and login. If you don't have any account yet, just sign up first.
 29. ![image](https://github.com/RevoU-FSSE-2/week-5-julzwenji/assets/135611712/bd290fe1-732f-4fb8-9b5d-53a2c99cb70e)
+30. At your home page, under Websites division, go to the right side ang choose "Add a Site".
+31. ![image](https://github.com/RevoU-FSSE-2/week-5-julzwenji/assets/135611712/451752e7-3f83-44e7-a26c-670c859fce14)
+32. Enter the site name, and click "Add Site".
+33. ![image](https://github.com/RevoU-FSSE-2/week-5-julzwenji/assets/135611712/f265cde3-478e-491b-928c-8ba7c9e15dd1)
+34. Scroll down to the lowest part, choose the "Free" service, and click on continue.
+35. ![image](https://github.com/RevoU-FSSE-2/week-5-julzwenji/assets/135611712/c905514f-f616-4ffb-8b5e-84786ecd54e6)
+
+
+
 
 
 
