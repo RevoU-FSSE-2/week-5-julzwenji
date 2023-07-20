@@ -34,6 +34,16 @@ Hello, this is my Week 5 Assignment, a website describing about a translation pr
 33. ![image](https://github.com/RevoU-FSSE-2/week-5-julzwenji/assets/135611712/f265cde3-478e-491b-928c-8ba7c9e15dd1)
 34. Scroll down to the lowest part, choose the "Free" service, and click on continue.
 35. ![image](https://github.com/RevoU-FSSE-2/week-5-julzwenji/assets/135611712/c905514f-f616-4ffb-8b5e-84786ecd54e6)
+36. After that, this page will appear, please notice 2 server name instide the red box. Go to niaga hoster and configure those adress to your site.
+37. ![image](https://github.com/RevoU-FSSE-2/week-5-julzwenji/assets/135611712/82b7d2cb-b627-4af8-bc11-f2f02945d9a2)
+38. ![image](https://github.com/RevoU-FSSE-2/week-5-julzwenji/assets/135611712/21ecb8bd-44dc-47be-8cd1-64215ff6d99b)
+39. ![image](https://github.com/RevoU-FSSE-2/week-5-julzwenji/assets/135611712/6ca042c0-9df7-41eb-bb62-9b5183c6501b)
+40. After that go to the main page under "Websites" tab, and click on your site's name.
+41. ![image](https://github.com/RevoU-FSSE-2/week-5-julzwenji/assets/135611712/2c4cc93f-8843-4bd5-aad9-1671a71f373f)
+
+
+
+
 
 
 
