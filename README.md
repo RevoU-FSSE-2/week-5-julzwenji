@@ -40,6 +40,8 @@ Hello, this is my Week 5 Assignment, a website describing about a translation pr
 39. ![image](https://github.com/RevoU-FSSE-2/week-5-julzwenji/assets/135611712/6ca042c0-9df7-41eb-bb62-9b5183c6501b)
 40. After that go to the main page under "Websites" tab, and click on your site's name.
 41. ![image](https://github.com/RevoU-FSSE-2/week-5-julzwenji/assets/135611712/2c4cc93f-8843-4bd5-aad9-1671a71f373f)
+42. Make sure if your site are proxied and everything is done. Sometimes when you just added the site into Cloudfare, you have to wait atleast 24 hours for the update.
+43. Thank you.
 
 
 
